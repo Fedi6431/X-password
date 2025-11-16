@@ -12,8 +12,6 @@ run the installer and it'll install all the requirements and start the program
 ## X-Password
 ![immagine](https://github.com/Fedi6431/X-password/assets/102946457/921f0629-3609-47ab-90ff-6de5b3f2d884)
 
-This is the main GUI of the program.
-
 ### Functions & Controls
 
 #### - help
