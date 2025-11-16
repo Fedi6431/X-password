@@ -1,16 +1,11 @@
 # X-Backup
 
-## ⚠ PLEASE ATTENTION ⚠
-This program was developed with Windows
-# User guide 
-## Installer
-![immagine](https://github.com/Fedi6431/X-password/assets/102946457/b56c763b-ae0c-48df-b546-83be257919a3)
+## Installation
 
-Don't worry about this Windows Defender popup, because you have downloaded a file from an external source, so Windows Defender will say that running this app can expose you to risk
-
-Just click on "more info" and the "run" button
-
+### Windows
 When you run the installer, it will download the necessary packages on requirements.txt and then start the program
+
+### Linux
 
 ## X-Password
 ![immagine](https://github.com/Fedi6431/X-password/assets/102946457/921f0629-3609-47ab-90ff-6de5b3f2d884)
