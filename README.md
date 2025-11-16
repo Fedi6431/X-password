@@ -1,11 +1,13 @@
-# X-Backup
+# X-Password
 
 ## Installation
 
 ### Windows
-When you run the installer, it will download the necessary packages on requirements.txt and then start the program
+Run the installer.bat, it'll install all the requirements and start the program
 
 ### Linux
+Add the permission to get executed to the installer (installer.sh) by the command  `chmod +x installer.sh` after that
+run the installer and it'll install all the requirements and start the program
 
 ## X-Password
 ![immagine](https://github.com/Fedi6431/X-password/assets/102946457/921f0629-3609-47ab-90ff-6de5b3f2d884)
